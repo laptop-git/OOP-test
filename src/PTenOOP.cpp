@@ -7,9 +7,13 @@
 //============================================================================
 
 #include <iostream>
-using namespace std;
+
+class Animal{
+
+};
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	return 0;
+
+	//return 0; default return is zero (only in main)
 }
